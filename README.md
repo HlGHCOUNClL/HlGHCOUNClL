@@ -1,3 +1,3 @@
-  ![](https://komarev.com/ghpvc/?username=KAITO-V1&color=222e7b)
+  ![](https://komarev.com/ghpvc/?username=KAITO-V1&color=5968c6)
 
   
